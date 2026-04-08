@@ -1,2 +1,2 @@
-# ak-l-_k-t-phane
+# Akıllı Kütüphane
 Profesyonel kütüphane yönetimi için tam özellikli masaüstü uygulaması.
